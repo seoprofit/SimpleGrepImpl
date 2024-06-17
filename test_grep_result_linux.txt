@@ -1,0 +1,129 @@
+    0   1    1  success grep sdsa grep_test.txt -v
+    0   2    2  success grep sdsa grep_test.txt -c
+    0   3    3  success grep sdsa grep_test.txt -l
+    0   4    4  success grep sdsa grep_test.txt -n
+    0   5    5  success grep sdsa grep_test.txt -h
+    0   6    6  success grep sdsa grep_test.txt -o
+    0   7    7  success grep sdsa grep_test.txt -v -c
+    0   8    8  success grep sdsa grep_test.txt -v -l
+    0   9    9  success grep sdsa grep_test.txt -v -n
+    0   10    10  success grep sdsa grep_test.txt -v -h
+    0   11    11  success grep sdsa grep_test.txt -v -o
+    0   12    12  success grep sdsa grep_test.txt -c -v
+    0   13    13  success grep sdsa grep_test.txt -c -l
+    0   14    14  success grep sdsa grep_test.txt -c -n
+    0   15    15  success grep sdsa grep_test.txt -c -h
+    0   16    16  success grep sdsa grep_test.txt -c -o
+    0   17    17  success grep sdsa grep_test.txt -l -v
+    0   18    18  success grep sdsa grep_test.txt -l -c
+    0   19    19  success grep sdsa grep_test.txt -l -n
+    0   20    20  success grep sdsa grep_test.txt -l -h
+    0   21    21  success grep sdsa grep_test.txt -l -o
+    0   22    22  success grep sdsa grep_test.txt -n -v
+    0   23    23  success grep sdsa grep_test.txt -n -c
+    0   24    24  success grep sdsa grep_test.txt -n -l
+    0   25    25  success grep sdsa grep_test.txt -n -h
+    0   26    26  success grep sdsa grep_test.txt -n -o
+    0   27    27  success grep sdsa grep_test.txt -h -v
+    0   28    28  success grep sdsa grep_test.txt -h -c
+    0   29    29  success grep sdsa grep_test.txt -h -l
+    0   30    30  success grep sdsa grep_test.txt -h -n
+    0   31    31  success grep sdsa grep_test.txt -h -o
+    0   32    32  success grep sdsa grep_test.txt -o -v
+    0   33    33  success grep sdsa grep_test.txt -o -c
+    0   34    34  success grep sdsa grep_test.txt -o -l
+    0   35    35  success grep sdsa grep_test.txt -o -n
+    0   36    36  success grep sdsa grep_test.txt -o -h
+    0   37    37  success grep sdsa grep_test.txt -v -c -l
+    0   38    38  success grep sdsa grep_test.txt -v -c -n
+    0   39    39  success grep sdsa grep_test.txt -v -c -h
+    0   40    40  success grep sdsa grep_test.txt -v -l -c
+    0   41    41  success grep sdsa grep_test.txt -v -l -n
+    0   42    42  success grep sdsa grep_test.txt -v -l -h
+    0   43    43  success grep sdsa grep_test.txt -v -n -c
+    0   44    44  success grep sdsa grep_test.txt -v -n -l
+    0   45    45  success grep sdsa grep_test.txt -v -n -h
+    0   46    46  success grep sdsa grep_test.txt -v -h -c
+    0   47    47  success grep sdsa grep_test.txt -v -h -l
+    0   48    48  success grep sdsa grep_test.txt -v -h -n
+    0   49    49  success grep sdsa grep_test.txt -c -v -l
+    0   50    50  success grep sdsa grep_test.txt -c -v -n
+    0   51    51  success grep sdsa grep_test.txt -c -v -h
+    0   52    52  success grep sdsa grep_test.txt -c -l -v
+    0   53    53  success grep sdsa grep_test.txt -c -l -n
+    0   54    54  success grep sdsa grep_test.txt -c -l -h
+    0   55    55  success grep sdsa grep_test.txt -c -n -v
+    0   56    56  success grep sdsa grep_test.txt -c -n -l
+    0   57    57  success grep sdsa grep_test.txt -c -n -h
+    0   58    58  success grep sdsa grep_test.txt -c -h -v
+    0   59    59  success grep sdsa grep_test.txt -c -h -l
+    0   60    60  success grep sdsa grep_test.txt -c -h -n
+    0   61    61  success grep sdsa grep_test.txt -l -v -c
+    0   62    62  success grep sdsa grep_test.txt -l -v -n
+    0   63    63  success grep sdsa grep_test.txt -l -v -h
+    0   64    64  success grep sdsa grep_test.txt -l -c -v
+    0   65    65  success grep sdsa grep_test.txt -l -c -n
+    0   66    66  success grep sdsa grep_test.txt -l -c -h
+    0   67    67  success grep sdsa grep_test.txt -l -n -v
+    0   68    68  success grep sdsa grep_test.txt -l -n -c
+    0   69    69  success grep sdsa grep_test.txt -l -n -h
+    0   70    70  success grep sdsa grep_test.txt -l -h -v
+    0   71    71  success grep sdsa grep_test.txt -l -h -c
+    0   72    72  success grep sdsa grep_test.txt -l -h -n
+    0   73    73  success grep sdsa grep_test.txt -n -v -c
+    0   74    74  success grep sdsa grep_test.txt -n -v -l
+    0   75    75  success grep sdsa grep_test.txt -n -v -h
+    0   76    76  success grep sdsa grep_test.txt -n -c -v
+    0   77    77  success grep sdsa grep_test.txt -n -c -l
+    0   78    78  success grep sdsa grep_test.txt -n -c -h
+    0   79    79  success grep sdsa grep_test.txt -n -l -v
+    0   80    80  success grep sdsa grep_test.txt -n -l -c
+    0   81    81  success grep sdsa grep_test.txt -n -l -h
+    0   82    82  success grep sdsa grep_test.txt -n -h -v
+    0   83    83  success grep sdsa grep_test.txt -n -h -c
+    0   84    84  success grep sdsa grep_test.txt -n -h -l
+    0   85    85  success grep sdsa grep_test.txt -h -v -c
+    0   86    86  success grep sdsa grep_test.txt -h -v -l
+    0   87    87  success grep sdsa grep_test.txt -h -v -n
+    0   88    88  success grep sdsa grep_test.txt -h -c -v
+    0   89    89  success grep sdsa grep_test.txt -h -c -l
+    0   90    90  success grep sdsa grep_test.txt -h -c -n
+    0   91    91  success grep sdsa grep_test.txt -h -l -v
+    0   92    92  success grep sdsa grep_test.txt -h -l -c
+    0   93    93  success grep sdsa grep_test.txt -h -l -n
+    0   94    94  success grep sdsa grep_test.txt -h -n -v
+    0   95    95  success grep sdsa grep_test.txt -h -n -c
+    0   96    96  success grep sdsa grep_test.txt -h -n -l
+    0   97    97  success grep sdsa grep_test.txt -vc
+    0   98    98  success grep sdsa grep_test.txt -vl
+    0   99    99  success grep sdsa grep_test.txt -vn
+    0   100    100  success grep sdsa grep_test.txt -vh
+    0   101    101  success grep sdsa grep_test.txt -vo
+    1   101     102 fail grep sdsa grep_test.txt -cv
+    2   101     103 fail grep sdsa grep_test.txt -cl
+    2   102    104  success grep sdsa grep_test.txt -cn
+    2   103    105  success grep sdsa grep_test.txt -ch
+    2   104    106  success grep sdsa grep_test.txt -co
+    2   105    107  success grep sdsa grep_test.txt -lv
+    2   106    108  success grep sdsa grep_test.txt -lc
+    2   107    109  success grep sdsa grep_test.txt -ln
+    2   108    110  success grep sdsa grep_test.txt -lh
+    2   109    111  success grep sdsa grep_test.txt -lo
+    2   110    112  success grep sdsa grep_test.txt -nv
+    2   111    113  success grep sdsa grep_test.txt -nc
+    2   112    114  success grep sdsa grep_test.txt -nl
+    2   113    115  success grep sdsa grep_test.txt -nh
+    2   114    116  success grep sdsa grep_test.txt -no
+    2   115    117  success grep sdsa grep_test.txt -hv
+    2   116    118  success grep sdsa grep_test.txt -hc
+    2   117    119  success grep sdsa grep_test.txt -hl
+    2   118    120  success grep sdsa grep_test.txt -hn
+    2   119    121  success grep sdsa grep_test.txt -ho
+    2   120    122  success grep sdsa grep_test.txt -ov
+    2   121    123  success grep sdsa grep_test.txt -oc
+    2   122    124  success grep sdsa grep_test.txt -ol
+    2   123    125  success grep sdsa grep_test.txt -on
+    2   124    126  success grep sdsa grep_test.txt -oh
+  FAIL: 2 
+     SUCCESS: 124 
+ALL: 126
